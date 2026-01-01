@@ -6,6 +6,12 @@ Para iniciar proyecto:
 npm start
 ```
 
+## Instalar TypeScript
+
+```bash
+npm install --save-dev typescript @types/react @types/react-dom
+```
+
 ## Conectar con base de datos Supabase
 
 Crear archivo /srv/supabaseClient.js
