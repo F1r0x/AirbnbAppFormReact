@@ -6,7 +6,7 @@ Para iniciar proyecto:
 npm start
 ```
 
-## Conectar con supabase
+## Conectar con base de datos Supabase
 
 Crear archivo /srv/supabaseClient.js
 
